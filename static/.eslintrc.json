@@ -1,0 +1,21 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "globals":{
+        "webix":true,
+        "scheduler":true,
+        "APPNAME":true, "VERSION":true, "PRODUCTION":true
+    },
+    "extends": "eslint:recommended",
+    "parserOptions": {
+        "sourceType": "module"
+    },
+    "rules": {
+        "semi": [
+            "error",
+            "always"
+        ]
+    }
+}

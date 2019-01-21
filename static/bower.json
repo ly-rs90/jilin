@@ -1,0 +1,26 @@
+{
+  "name": "jldemo",
+  "description": "JLDemo",
+  "main": "sources/app.js",
+  "authors": [
+    "liyi <344485513@qq.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webix",
+    "jet"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "echarts": "^4.1.0",
+    "webix": "^5.2.0"
+  }
+}
